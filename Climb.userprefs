@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlatformSpawn.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game.cs" Line="44" Column="45" />
+      <File FileName="Assets\Scripts\GlobalSettings.cs" Line="45" Column="34" />
+      <File FileName="Assets\Scripts\Rope.cs" Line="38" Column="16" />
+      <File FileName="Assets\Scripts\Tutorial.cs" Line="21" Column="23" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="48" Column="34" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="72" Column="61" />
+      <File FileName="Assets\Scripts\PlatformSpawn.cs" Line="33" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
